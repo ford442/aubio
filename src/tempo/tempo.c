@@ -17,6 +17,7 @@
   along with aubio.  If not, see <http://www.gnu.org/licenses/>.
 
 */
+#pragma once
 
 #include "aubio_priv.h"
 #include "fvec.h"
